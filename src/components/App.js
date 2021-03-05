@@ -1,13 +1,12 @@
 import React, {useState} from 'react'
 import Forum from './Forum'
 const App = () => {
-
-    return(
+  return(
     <>
-    <h1 className = 'title'>Forum </h1>
-    <Forum />
+      <h1 className = 'title'>Forum </h1>
+      <Forum />
     </>
-    )
-    }
-    
-  export default App
+  )
+}
+
+export default App
