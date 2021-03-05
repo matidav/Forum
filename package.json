@@ -1,0 +1,26 @@
+{
+  "name": "CommentApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matidav/CommentApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matidav/CommentApp/issues"
+  },
+  "homepage": "https://github.com/matidav/CommentApp#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "semantic-ui-segment": "^2.4.0"
+  }
+}

@@ -1,0 +1,52 @@
+body {
+font-family: Work Sans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+
+
+
+.title{
+text-align: center;
+padding: 1rem;
+box-shadow: rgb(0 0 0 / 30%) 0px 1px 18px;
+
+}
+
+.reply{
+padding: 1rem;
+box-shadow: rgb(0 0 0 / 30%) 0px 1px 18px;
+}
+
+.reply-name{
+color: blue;
+font-weight: bold;
+font-size: 80%
+}
+
+.main-post{
+    padding: 1rem;
+    box-shadow: rgb(0 0 0 / 30%) 0px 1px 18px;   
+}
+
+.voter {
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    width: 24px;
+    -webkit-box-align: center;
+    align-items: center;
+    float: right;
+    margin-bottom: 10 px
+
+}
+
+.reply-button {
+    margin-bottom: 10px
+
+
+}
+
+.higher-button{
+
+width:100%;
+ height: 100%
+}
