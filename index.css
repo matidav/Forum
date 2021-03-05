@@ -6,8 +6,11 @@ body {
 
 .title{
   text-align: center;
+  font-size: 100px;
   padding: 1rem;
   box-shadow: rgb(0 0 0 / 30%) 0px 1px 18px;
+  font-family: 'Great Vibes', cursive;
+  color:rgb(59, 145, 145)
 
 }
 
